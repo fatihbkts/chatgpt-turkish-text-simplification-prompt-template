@@ -1,0 +1,222 @@
+Sana Türkçe metinler verilecek, senin görevin ise bu metinlerdeki detayları koruyarak, cümle yapılarını ve kelimeleri sadeleştirmek. Sadeleştirilmiş metinler, özgün metnin anlamını ve içeriğini korumalı ancak daha basit kelime ve gramer kullanarak belirtilen seviyeye uygun olmalıdır. Aşağıdaki kuralları takip et:
+
+1. Sadeleştirme  
+  1.1. Sözdizimsel Sadeleştirme 
+    1.1.1. Karmaşık Tümceleri Bölme  
+    1.1.2. Ad, Sıfat, Belirteç Tümceciklerini Ayırma  
+    1.1.3. Zamansal İlişkileri Standart Hâle Getirme  
+    1.1.4. Gönderimleri Açık Hâle Getirme  
+    1.1.5. Dolaylı Anlatımı Azaltma  
+    1.1.6. Edilgen Yapıları Etken Hâle Getirme  
+    1.1.7. Devrik Yapıları Düzenleme  
+  1.2. Sözlüksel Sadeleştirme  
+    1.2.1. Sıklığı Az Sözcükleri Sıklığı Fazla Olanlarla Değiştirme (Deyimler Dâhil)  
+    1.2.2. Yeniden Yazma  
+    1.2.3. Anlatımı Zorlaştıran ve Tümceyi Uzatan Sözcükleri Silme  
+    1.2.4. Kiplikleri Sözcükle İfade Etme  
+    1.2.5. Sözcüğün Alışılmamış Kullanımlarını Azaltma (Anlamsal)  
+  1.3. Genişletme  
+    1.3.1. Sıklığı Az Olan Sözcükleri Sıklığı Fazla Olanlarla Genişletme (Açımlama- Alt-anlamlı Sözcük Yerine Üst-anlamlı Sözcükleri Kullanma)
+    1.3.2. Tekrar ve Yeniden Yazma Yöntemiyle Örtük Anlatım ve Önvarsayımları Belirtik Kılma (Eksiltileri Tamamlama)
+    1.3.3. Bağlantıları Açık Hâle Getirme (Görünmeyen Bağlaç ve Belirteçleri Kullanma)
+    1.3.4. Pekiştirme, Yineleme ve Türetme Yoluyla Temel Kavramları Vurgulama
+
+A1 seviyesindeki bir öğrenci için karmaşık tümceleri bölmeye örnek:
+Özgün Metin: "Peki meseleyi bir kere şehir meclisine arzeder, neticeyi size bildiririz" dedi, ayağa kalktı.
+Sadeleştirilmiş Metin: "Peki, bu konuyu belediye meclisinde anlatacağım. Sonucu size söyleyeceğim" dedi, ayağa kalktı.
+
+A2 seviyesindeki bir öğrenci için karmaşık tümceleri bölmeye örnek:
+Özgün Metin: Sen o işi bana bırak, ben onu da ya İstanbul Belediyesi'ne, ya taşra belediyelerinden birine uygun fiyatla okuturum.
+Sadeleştirilmiş Metin: Sen o işi düşünme. Ben onu da bir belediyeye uygun fiyatla satarım.
+
+B1 seviyesindeki bir öğrenci için karmaşık tümceleri bölmeye örnek:
+Özgün Metin: Ben size söylüyorum ki, bunların birçoğunu gördüm, okudum, hiçbir şey, hiç kimse İstanbul’u çöplükleri kadar anlatmadı bana.
+Sadeleştirilmiş Metin: Bunların birçoğunu gördüm, okudum. Ama ben size söylüyorum, hiçbir şey, hiç kimse İstanbul’u bana çöplükleri kadar anlatmadı.
+
+A1 seviyesindeki bir öğrenci için ad, sıfat, belirteç tümceciklerini ayırmaya örnek:
+Özgün Metin: Akşamları iş dönüşü atölyeye uğrayıp bir saat kadar poz almaya başladık.
+Sadeleştirilmiş Metin: Akşamları iş dönüşü atölyeye gidiyordum. Bir saat kadar çalışıyorduk.
+
+A2 seviyesindeki bir öğrenci için ad, sıfat, belirteç tümceciklerini ayırmaya örnek:
+Özgün Metin: Dürüst bir tüccar olduğuma yüzlerce şahit gösterebilirim.
+Sadeleştirilmiş Metin: Dürüst bir tüccarım. Buna yüzlerce tanık gösterebilirim.
+
+B1 seviyesindeki bir öğrenci için ad, sıfat, belirteç tümceciklerini ayırmaya örnek:
+Özgün Metin: Bu gidişle onun da kendinin ekip biçeceği, dört beş ceviz ağaçlı bir tarlası olmasına şunun şurasında on sene kalmıştı.
+Sadeleştirilmiş Metin: Böyle giderse belki on sene sonra onun da dört beş ağaçlı bir tarlası olacaktı.
+
+A1 seviyesindeki bir öğrenci için zamansal ilişkileri standart hâle getirmeye örnek:
+Özgün Metin: Kışın balıkçılıktan epey para biriktirmişti.
+Sadeleştirilmiş Metin: Kışın da balıkçılıktan çok para kazanıyordu.
+
+A2 seviyesindeki bir öğrenci için zamansal ilişkileri standart hâle getirmeye örnek:
+Özgün Metin: Ve bu murdar çöplük martıdan gözükmez olur.
+Sadeleştirilmiş Metin: Ve bu pis çöplüğü, üzerinde martılar varken göremezsiniz.
+
+B1 seviyesindeki bir öğrenci için zamansal ilişkileri standart hâle getirmeye örnek:
+Özgün Metin: Altın yüzük çıktığı da olur.
+Sadeleştirilmiş Metin: Bazen altın yüzük de çıkar.
+
+A1 seviyesindeki bir öğrenci için gönderimleri açık hâle getirmeye örnek:
+Özgün Metin: Kemal’e soran olmamıştı.
+Sadeleştirilmiş Metin: Hiç kimse bunu Kemal’e sormadı.
+
+A2 seviyesindeki bir öğrenci için gönderimleri açık hâle getirmeye örnek:
+Özgün Metin: Evvelâ peri görünüyor, sonra büyük büyük taşlar atıyor, nihayet gelip camları kırıyor, içeridekilere geceleri hiç rahat vermiyordu.
+Sadeleştirilmiş Metin: Peri önce görünüyor, sonra büyük taşlar atıyordu. Sonunda gelip camları kırıyor, içeridekileri gece rahatsız ediyordu.
+
+B1 seviyesindeki bir öğrenci için gönderimleri açık hâle getirmeye örnek:
+Özgün Metin: Birdenbire yüreği hop etti.
+Sadeleştirilmiş Metin: Sermet Bey birden korktu, heyecanlandı.
+
+A1 seviyesindeki bir öğrenci için dolaylı anlatımı azaltmaya örnek:
+Özgün Metin: Arkada, çamların arasında beyaz bir şeyin gezindiğini haber verdi.
+Sadeleştirilmiş Metin: "Arkada, ağaçların arasında beyaz bir şey geziyor," dedi.
+
+A2 seviyesindeki bir öğrenci için dolaylı anlatımı azaltmaya örnek:
+Özgün Metin: Sonra kapıcı geldi, memurların beni görmek istediklerini söyledi.
+Sadeleştirilmiş Metin: Sonra kapıcı geldi, "Memurlar sizi görmek istiyor", dedi.
+
+Not: Dolaylı aktarımlar B1 düzeyinin konuları arasında yer aldığından özellikle B1 düzeyinin altındaki öğrenci grubu için bu işlem gerçekleştirilmiştir. 
+
+A1 seviyesindeki bir öğrenci için edilgen ve ettirgen yapıları etken hâle getirmeye örnek:
+Özgün Metin: İstanbul’un boy boy, renk renk resimleri yapılmıştır yıllar boyu.
+Sadeleştirilmiş Metin: İstanbul’un birçok resmini yaptılar yıllar boyu.
+
+A2 seviyesindeki bir öğrenci için edilgen ve ettirgen yapıları etken hâle getirmeye örnek:
+Özgün Metin: Bir ay sonra başvurdum, "Daha inceleniyor, henüz bir karara varılamadı" diye savsakladılar.
+Sadeleştirilmiş Metin: Bir ay sonra tekrar gittim, "İnceliyoruz, henüz bir karar yok" dediler.
+
+B1 seviyesindeki bir öğrenci için edilgen ve ettirgen yapıları etken hâle getirmeye örnek:
+Özgün Metin: Ancak bahis mevzuu heykel artık yapılmış bitmiş ve parası ödenmiş bulunuyor, eğer bir mahzur yoksa…
+Sadeleştirilmiş Metin: Ancak heykel yapıldı, bitti ve ben parasını ödedim. O yüzden eğer bir sorun yoksa…
+
+A1 seviyesindeki bir öğrenci için devrik yapıları düzenlemeye örnek:
+Özgün Metin: Hiç hoşlanmadım o heriften.
+Sadeleştirilmiş Metin: O adamdan hiç hoşlanmadım.
+
+A2 seviyesindeki bir öğrenci için devrik yapıları düzenlemeye örnek:
+Özgün Metin: Kızın için için övündüğü, arkasında güvendiği, hiç kimseye söylemediği, hiçbir zaman da söylemeyeceği bir güvenci vardı arkasında.
+Sadeleştirilmiş Metin: Hiç kimseye söylemiyordu, hiçbir zaman da söylemeyecekti ama bir şeye çok güveniyordu.
+
+B1 seviyesindeki bir öğrenci için devrik yapıları düzenlemeye örnek:
+Özgün Metin: On iki kişi nasıl sığarız beş odaya!
+Sadeleştirilmiş Metin: On iki kişiyiz, beş odalı eve nasıl sığarız?
+
+A1 seviyesindeki bir öğrenci için sıklığı az olan sözcükleri sıklığı fazla olanlarla değiştirmeye (deyimler dâhil) örnek:
+Özgün Metin: "Dinmedi, değil mi?" dedi araya giren suskunluğu bozmak için.
+Sadeleştirilmiş Metin: "Yağmur durmadı, değil mi?" dedi.
+
+A2 seviyesindeki bir öğrenci için sıklığı az olan sözcükleri sıklığı fazla olanlarla değiştirmeye (deyimler dâhil) örnek:
+Özgün Metin: Hafif bir ümitsizlik yüzeye çıkmaya çalıştığında Kemal gidip çantayı bulunduğu yerden çıkarıyor, kızın deodoranını hafifçe kapağının içine sıkıp derin derin kokluyordu.
+Sadeleştirilmiş Metin: Böyle umutsuz durumlarda çantayı çıkarıyor, kızın parfümünü hafifçe sıkıyor, kokluyordu.
+
+B1 seviyesindeki bir öğrenci için sıklığı az olan sözcükleri sıklığı fazla olanlarla değiştirmeye (deyimler dâhil) örnek:
+Özgün Metin: Kaymakam bey de tutturdu ille de geberteceksin.
+Sadeleştirilmiş Metin: Kaymakam bey de öldüreceksin, diyor.
+
+A1 seviyesindeki bir öğrenci için yeniden yazmaya örnek:
+Özgün Metin: Üstelik anne ve babasının uzun yıllardır yarattıkları sakin dünyayı, tekrar, başka bir evde kurmak dışında yaşamdan beklediği bir şey de yoktu.
+Sadeleştirilmiş Metin: Ayrıca o da evlenmek ve sakin bir dünya kurmak istiyordu. Tıpkı annesi ve babası gibi.
+
+A2 seviyesindeki bir öğrenci için yeniden yazmaya örnek:
+Özgün Metin: Eliyle sıkı sıkıya tutup hissetmeyince bir şeyin varlığına hükmetmezdi, gözle kulak onca birer yalan kovuğuydu.
+Sadeleştirilmiş Metin: Sermet Bey’e göre göz ve kulak yalan doluydu. Bir şeye inanmak için dokunmak gerekirdi.
+
+B1 seviyesindeki bir öğrenci için yeniden yazmaya örnek:
+Özgün Metin: -Vay anasına! dedi, telkinin kuvvetine bak!
+Sadeleştirilmiş Metin: -Şu işe bak! Bu peri sözleri bizi çok etkiledi, her şeyi hayalete benzetiyoruz.
+Not: Bu örnekte anlatıda gerçekleşen önceki olaylara gönderimde bulunarak açıklamalarla genişletme yapılmıştır.
+
+A1 seviyesindeki bir öğrenci için anlatımı zorlaştıran ve tümceyi uzatan sözcükleri silmeye örnek:
+Özgün Metin: Postaneye gidip numara yazdırıyor, saatlerce bekliyorduk.
+Sadeleştirilmiş Metin: Postaneye gidiyor, uzun uzun bekliyorduk.
+
+A2 seviyesindeki bir öğrenci için anlatımı zorlaştıran ve tümceyi uzatan sözcükleri silmeye örnek:
+Özgün Metin: "Söyle bakalım, senin çaldırdığın kalemin nasıldı?"
+Sadeleştirilmiş Metin: "Söyle bakalım, senin kalemin nasıldı?"
+
+B1 seviyesindeki bir öğrenci için anlatımı zorlaştıran ve tümceyi uzatan sözcükleri silmeye örnek:
+Özgün Metin: Onu, alnını masaya dayamış sarsıla sarsıla ağlarken bıraktım.
+Sadeleştirilmiş Metin: Onu orada ağlarken bıraktım.
+
+A1 seviyesindeki bir öğrenci için kiplikleri sözcükle ifade etmeye örnek:
+Özgün Metin: Hayır, buna kesinlikle bir son vermeliydi.
+Sadeleştirilmiş Metin: Buna kesinlikle bir son vermek gerekiyordu.
+
+A2 seviyesindeki bir öğrenci için kiplikleri sözcükle ifade etmeye örnek:
+Özgün Metin: İlk atışta vuramazsan ya da yaralarsan işin bitiktir; bu yüzden telef olmuş ne avcı hikâyeleri dinledik.
+Sadeleştirilmiş Metin: Ayıyı ilk seferde vurmak gerek, yoksa o seni öldürür.
+
+B1 seviyesindeki bir öğrenci için kiplikleri sözcükle ifade etmeye örnek:
+Özgün Metin: "Üç, bilemedin beş günde bitecekti," dedi.
+Sadeleştirilmiş Metin: "Üç, belki de beş günde bitecekti," dedi.
+
+A1 seviyesindeki bir öğrenci için sözcüğün alışılmamış kullanımlarını azaltmaya (anlamsal değiştirim) örnek:
+Özgün Metin: Birkaç saat sonra başöğretmenin kapısının önü kaynaşıyordu.
+Sadeleştirilmiş Metin: Birkaç saat sonra başöğretmenin kapısının önü öğrenciyle doluydu.
+
+A2 seviyesindeki bir öğrenci için sözcüğün alışılmamış kullanımlarını azaltmaya (anlamsal değiştirim) örnek:
+Özgün Metin: Burası yüksek tabii, bakarsın gece kara çevirir.
+Sadeleştirilmiş Metin: Belki gece kar yağar.
+
+B1 seviyesindeki bir öğrenci için sözcüğün alışılmamış kullanımlarını azaltmaya (anlamsal değiştirim) örnek:
+Özgün Metin: Orası size gelmez.
+Sadeleştirilmiş Metin: Orası olmaz.
+
+A1 seviyesindeki bir öğrenci için sıklığı az olan sözcükleri sıklığı fazla olanlarla genişletmeye (açımlama, alt-anlamlı sözcük yerine üst-anlamlı sözcükleri kullanma) örnek:
+Özgün Metin: Çöp şiş falan yeriz.
+Sadeleştirilmiş Metin: Yemek yiyelim.
+
+A2 seviyesindeki bir öğrenci için sıklığı az olan sözcükleri sıklığı fazla olanlarla genişletmeye (açımlama, alt-anlamlı sözcük yerine üst-anlamlı sözcükleri kullanma) örnek:
+Özgün Metin: Ertesi akşam koruya gitti.
+Sadeleştirilmiş Metin: Ertesi akşam koruya, ağaçların arasına gitti.
+
+B1 seviyesindeki bir öğrenci için sıklığı az olan sözcükleri sıklığı fazla olanlarla genişletmeye (açımlama, alt-anlamlı sözcük yerine üst-anlamlı sözcükleri kullanma) örnek:
+Özgün Metin: Neyse, uzatmayayım, bir gün ben bunu cipe atıp ormana, ilk bulduğum yere götürdüm.
+Sadeleştirilmiş Metin: Neyse, uzatmayayım, bir gün Tombik’i arabayla ormana, onu ilk bulduğum yere götürdüm.
+
+A1 seviyesindeki bir öğrenci için tekrar ve yeniden yazma yöntemleriyle örtük anlatım ve önvarsayımları belirtik kılmaya (eksiltileri tamamlama) örnek:
+Özgün Metin: Ama üç seneliğini peşin isterim.
+Sadeleştirilmiş Metin: Ama üç yılın kirasını peşin istiyorum.
+
+A2 seviyesindeki bir öğrenci için tekrar ve yeniden yazma yöntemleriyle örtük anlatım ve önvarsayımları belirtik kılmaya (eksiltileri tamamlama) örnek:
+Özgün Metin: Zaten çalışır vaziyette.
+Sadeleştirilmiş Metin: Zaten araba hâlâ çalışıyordu.
+
+B1 seviyesindeki bir öğrenci için tekrar ve yeniden yazma yöntemleriyle örtük anlatım ve önvarsayımları belirtik kılmaya (eksiltileri tamamlama) örnek:
+Özgün Metin: On senedir buraya girenler bir aydan ziyade oturamamışlardı.
+Sadeleştirilmiş Metin: On yıldır buraya giren kiracılar bir aydan fazla oturamamışlardı.
+
+A1 seviyesindeki bir öğrenci için bağlantıları açık hâle getirmeye (görünmeyen bağlaç ve belirteçleri kullanma) örnek:
+Özgün Metin: Diyeceğim şu, Ankara’ya bir gün, iki gün için gitmen önemli değil. Bu işi yapacaksan zorluklarına da katlanacaksın.
+Sadeleştirilmiş Metin: Bir gün, iki gün için git, önemli değil. Ama bu senin işin, bu yüzden zorluklarına da hazır ol.
+
+A2 seviyesindeki bir öğrenci için bağlantıları açık hâle getirmeye (görünmeyen bağlaç ve belirteçleri kullanma) örnek:
+Özgün Metin: O gün hafta sonu için ayırdığı tüm parasını harcamış olduğundan ertesi günü evden çıkmamaya karar verdi.
+Sadeleştirilmiş Metin: O gün o haftanın tüm parasını harcadı, bu yüzden ertesi gün evde kalmaya karar verdi.
+
+B1 seviyesindeki bir öğrenci için bağlantıları açık hâle getirmeye (görünmeyen bağlaç ve belirteçleri kullanma) örnek:
+Özgün Metin: Karısının menetmesini filan dinlemedi.
+Sadeleştirilmiş Metin: Karısı onu durdurmak istedi ama dinlemedi.
+
+A1 seviyesindeki bir öğrenci için pekiştirme, yineleme ve türetme yoluyla temel kavramları vurgulamaya örnek:
+Özgün Metin: Beyaz cisme dokundu.
+Sadeleştirilmiş Metin: Beyaz hayale dokundu.
+Not: Bu örnekte, hikayenin bağlamına göre "hayal" kavramı vurgulanmıştır.
+
+A2 seviyesindeki bir öğrenci için pekiştirme, yineleme ve türetme yoluyla temel kavramları vurgulamaya örnek:
+Özgün Metin: -İnsanmış kerata!
+Sadeleştirilmiş Metin: -Hayal değil, insanmış bu!
+Not: Bu örnekte, hikayenin bağlamına göre "hayal" kavramı vurgulanmıştır.
+
+B1 seviyesindeki bir öğrenci için pekiştirme, yineleme ve türetme yoluyla temel kavramları vurgulamaya örnek:
+Özgün Metin: Unutulmuş, öylece bırakılmış, sahipsiz nesneler.
+Sadeleştirilmiş Metin: Unutulmuş, öylece bırakılmış, sahipsiz eşyalar.
+
+
+### Talimat:
+Aşağıdaki Türkçe metni {level} seviyesindeki bir öğrenci için, metnin içeriğini ve uzunluğunu koruyarak sadeleştir. Sadeleştirme kuralları çerçevesinde olmadıkça metni kısaltma.
+
+### Metin:
+{text}
